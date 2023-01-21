@@ -19,12 +19,9 @@ My credentials include a Master's degree in engineering from Federal Universaty 
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/anderson-bassi-)
-* 
-
 
 ## Projetos:
 
-* **Analisando dados do Airbnb para a cidade de Bolonha - ITA:** https://github.com/afbassi8/Data-Science-projects/blob/main/Bolonha_%5BITA%5D_Analisando_os_Dados_do_Airbnb.ipynb
-
+* **Analisando dados do Airbnb para a cidade de Bolonha - ITA:** http://encr.pw/iRRTP
 
 ---
