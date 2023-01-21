@@ -24,7 +24,7 @@ My credentials include a Master's degree in engineering from Federal Universaty 
 
 ## Projetos:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Analisando dados do Airbnb para a cidade de Bolonha - ITA:** https://github.com/afbassi8/Data-Science-projects/blob/main/Bolonha_%5BITA%5D_Analisando_os_Dados_do_Airbnb.ipynb
 
 
 ---
