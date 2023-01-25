@@ -22,6 +22,6 @@ My credentials include a Master's degree in engineering from Federal Universaty 
 
 ## Projetos:
 
-* **Analisando dados do Airbnb para a cidade de Bolonha - ITA:** http://encr.pw/iRRTP
+* **Analisando dados do Airbnb para a cidade de Bolonha - ITA:** https://colab.research.google.com/drive/1oArr4ciODw0524AFwKI1E68DAdEc158L?usp=sharing
 
 ---
